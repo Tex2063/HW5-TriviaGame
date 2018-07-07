@@ -1,0 +1,8 @@
+div {
+    margin-bottom: 20px;
+  }
+  .correct, .incorrect {
+    text-transform: capitalize;
+  }
+
+  /* and the rest of the styling to make it look pretty 
