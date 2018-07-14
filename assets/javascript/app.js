@@ -1,3 +1,5 @@
+$( document ).ready()
+
 var userPick;
 var correctAnswer = 0;
 var incorrectAnswer = 0;
@@ -11,7 +13,6 @@ var count = 30;
 var sciFiQuestions = [{
     question: "In Star Trek, which ship has the registry number 74656?",
     choices: ["Discovery", "Defiant", "Voyager", "Enterprise"],
-    images: ["../images/Rajah.gif"],
     validAnswer: 2
 }, {
     question: "In Star Trek, what was Captain Archer's dog's name?",
